@@ -1,0 +1,13 @@
+numpy
+pandas
+geopandas
+osmnx
+networkx
+shapely
+pyproj
+scikit-learn
+matplotlib
+folium
+streamlit
+requests
+tqdm
