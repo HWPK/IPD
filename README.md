@@ -25,5 +25,5 @@ Planned methodology
 Repository status
 At IPD stage, this repository contains project planning, documentation, and environment setup. Practical implementation will follow.
 
-## Ethics
+Ethics
 No real personal commuter data will be used. Synthetic data will be generated to reduce privacy and ethical risk.
